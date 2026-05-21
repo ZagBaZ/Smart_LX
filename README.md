@@ -13,8 +13,8 @@
 ### Переезд закрыт, препятствие на пути
 ![lx_close](https://github.com/ZagBaZ/Smart_LX/blob/main/images/lx_close.png)
 
-### Переезд закрыт, светофор исправен \
+### Переезд закрыт, светофор исправен 
 ![signal_lx_close](https://github.com/ZagBaZ/Smart_LX/blob/main/images/signal_lx_close.png)
 
-### Переезд открыт, неисправность белого огня светофора \
+### Переезд открыт, неисправность белого огня светофора 
 ![signal_lx_open](https://github.com/ZagBaZ/Smart_LX/blob/main/images/signal_lx_open.png)
