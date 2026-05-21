@@ -8,7 +8,7 @@
 При обнаружении препятствия или неисправности огнй светофоров формирует оповещения и может автоматически управлять заградительными светофорами.
 
 Переезд открыт
-![lx_open(https://github.com/ZagBaZ/Smart_LX/images/lx_open.png)
+![lx_open](https://github.com/ZagBaZ/Smart_LX/images/lx_open.png)
 
 Переезд закрыт, препятствие на пути
 ![lx_close](https://github.com/ZagBaZ/Smart_LX/images/lx_close.png)
